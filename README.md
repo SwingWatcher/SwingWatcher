@@ -1,5 +1,8 @@
 # SWING WATCHER
 
+## Wiki
+https://github.com/SwingWatcher/SwingWatcher/wiki
+
 # Getting Started
 1. Create a watcher
 2. Create a strategy
